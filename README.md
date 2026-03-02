@@ -3,10 +3,10 @@
 It was created as a coursework assignment focused on building clear and well-structured visualizations in OOP-style Matplotlib.
 The analysis is based on flight data and explores how revenue, cost, profit, load factor, and flight frequency change over time.
 
-## Dataset: 
+## Dataset 
 [Airline Route Profitability and Cost Analysis](https://www.kaggle.com/datasets/waleedfaheem/airline-route-profitability-and-cost-analysis)
 
-## How to Run:
+## How to Run
 1) Clone the repository: git clone https://github.com/yelypk/Data-visualization.git
    cd Data-visualization
 
@@ -14,7 +14,7 @@ The analysis is based on flight data and explores how revenue, cost, profit, loa
 
 3) Open Jupyter Notebook: run Homework.ipynb.
 
-## What the Notebook Includes:
+## What the Notebook Includes
 ● Data loading and preprocessing
 ● Reading the CSV file with Pandas
 ● Parsing dates
@@ -32,7 +32,7 @@ The analysis is based on flight data and explores how revenue, cost, profit, loa
 ● Visualization of maximum and minimum profit points
 ● Highlighted seasonal interval
 
-## Technologies Used:
+## Technologies Used
 ⚬ Python
 ⚬ Pandas
 ⚬ Matplotlib
